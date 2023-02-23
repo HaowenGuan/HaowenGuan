@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am actively looking for a position in **Machine Learning** and **Software Development** locate *anywhere, US*.
+I am actively looking for a position in **Machine Learning** and **Software Development** located *anywhere, US*.
 
 * 🧑🏻‍💻 Proficient in **Python** and **Java**.
 * 🏆 **Globally rank** Top $2.73$% in [*competitive programming*](https://leetcode.com/EXBORN/).
