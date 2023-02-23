@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am actively looking for a position related **Machine Learning** and **Software Development** locate in *anywhere, US*.
+
+I am ...
+
+* 🧑🏻‍💻 Proficient in **Python** and **Java**.
+* 🏆 **Globally rank** Top $2.73$% in [*competitive programming*](https://leetcode.com/EXBORN/).
+* 🤖 Built many **Computer Vision** project using **PyTorch** and **Tensorflow**.
+* 📖 **Published** 3 research papers, **first author** in a [IEEE-BIBM Conference proceeding](https://ieeexplore.ieee.org/document/9994879).
+
+Feel free to connect me on [[Linkedin]](https://www.linkedin.com/in/haowen-guan/).
+
 <!--
 **HaowenGuan/HaowenGuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
