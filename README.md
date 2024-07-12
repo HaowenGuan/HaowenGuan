@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I am actively looking for a **internship** in **Machine Learning** and **Software Development** located at *anywhere, US*.
+My name is Haowen, I am a **Ph.D. student** at the University of Massachusetts Boston. Any questions or collaborations are welcome! Feel free to connect me on [[Linkedin]](https://www.linkedin.com/in/haowen-guan/).
 
-* 🧑🏻‍💻 I am proficient in **Python** and **Java**.
+<!-- My research interests include Self-Supervised Multimodal Learning, Knowledge & Dataset Distillation, Deep Learning for Bioinformatics. -->
+
+### My Background
+
+* 🧑🏻‍💻  **Python** x **PyTorch**
 * 🏆 **Globally rank** Top $0.23$% in [*competitive programming*](https://leetcode.com/EXBORN/).
-* 📖 4 research **publications**, first author of Galaxy Dataset Distillation and [DeepTracer-Denoising, IEEE-BIBM 2022](https://ieeexplore.ieee.org/document/9994879), [[Free-PDF]](https://haowenguan.github.io/docs/DeepTracer-Denoising.pdf).
-
-Feel free to connect me on [[Linkedin]](https://www.linkedin.com/in/haowen-guan/).
+* 📖 First author of [Discovering Galaxy Features via Dataset Distillation](https://arxiv.org/abs/2311.17967) and [DeepTracer-Denoising, IEEE-BIBM 2022](https://ieeexplore.ieee.org/document/9994879), [[Free-PDF]](https://haowenguan.github.io/docs/DeepTracer-Denoising.pdf).
